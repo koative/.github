@@ -39,7 +39,7 @@ for mode, paper, ink, secondary in [('light', '#f5f6fa', '#171820', '#505362'), 
 <g transform="translate(25 17) scale(.56)"><path d="{MARK}" fill="url(#brand)"/></g>
 {lettering('koative', 36, 700, 91, 59, ink, -.035)}
 {lettering('Software, made together.', 21, 450, 28, 99, secondary, -.01)}
-<g transform="translate(681 -88) scale(3)">
+<g transform="translate(780 -26) scale(1.8)">
   <path d="{MARK}" fill="url(#brand)" opacity=".09"/>
   <path d="{MARK}" fill="none" stroke="url(#brand)" stroke-width=".7" opacity=".34"/>
   <path class="trace" d="{MARK}" pathLength="100" fill="none" stroke="url(#brand)" stroke-width="1.4" stroke-linecap="round"/>
@@ -47,6 +47,6 @@ for mode, paper, ink, secondary in [('light', '#f5f6fa', '#171820', '#505362'), 
 </g>
 </svg>'''
     (ROOT / f'assets/profile-header-{mode}.svg').write_text(svg)
-    mobile = svg.replace('0 0 1000 128', '0 0 512 128').replace('width="1000"', 'width="512"').replace('translate(681 -88)', 'translate(390 -88)')
+    mobile = svg.replace('0 0 1000 128', '0 0 512 128').replace('width="1000"', 'width="512"').replace('translate(780 -26) scale(1.8)', 'translate(345 -6) scale(1.4)')
     (ROOT / f'assets/profile-header-{mode}-mobile.svg').write_text(mobile)
 print('Generated both 1000 × 128 headers.')

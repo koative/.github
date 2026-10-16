@@ -7,9 +7,4 @@
   </picture>
 </a>
 
-- **[Elseform](https://github.com/koative/elseform)** — 100 website templates.
-- **[Rastero](https://github.com/koative/rastero)** — In-browser image compression.
-- **[OpenBucket](https://github.com/koative/openbucket)** — S3 storage for macOS.
-- **[Hyperliquid Go](https://github.com/koative/hyperliquid-go)** — Hyperliquid API SDK for Go.
-
 [Visit the studio ↗](https://koative.com) &nbsp; · &nbsp; [Explore all repositories ↗](https://github.com/orgs/koative/repositories)
