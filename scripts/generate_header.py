@@ -46,7 +46,7 @@ for mode, paper, ink, secondary in [('light', '#f5f6fa', '#171820', '#505362'), 
 </g>
 </g>
 </svg>'''
-    (ROOT / f'assets/profile-header-{mode}.svg').write_text(svg)
+    (ROOT / f'assets/profile-header-contained-{mode}.svg').write_text(svg)
     mobile = svg.replace('0 0 1000 128', '0 0 512 128').replace('width="1000"', 'width="512"').replace('translate(780 -26) scale(1.8)', 'translate(345 -6) scale(1.4)')
-    (ROOT / f'assets/profile-header-{mode}-mobile.svg').write_text(mobile)
+    (ROOT / f'assets/profile-header-contained-{mode}-mobile.svg').write_text(mobile)
 print('Generated both 1000 × 128 headers.')
