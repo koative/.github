@@ -7,15 +7,9 @@
   </picture>
 </a>
 
-<table>
-  <tr>
-    <td width="50%"><a href="https://github.com/koative/elseform"><strong>Elseform</strong></a><br />100 website templates.</td>
-    <td width="50%"><a href="https://github.com/koative/rastero"><strong>Rastero</strong></a><br />In-browser image compression.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/koative/openbucket"><strong>OpenBucket</strong></a><br />S3 storage for macOS.</td>
-    <td><a href="https://github.com/koative/hyperliquid-go"><strong>Hyperliquid Go</strong></a><br />Hyperliquid API SDK for Go.</td>
-  </tr>
-</table>
+- **[Elseform](https://github.com/koative/elseform)** — 100 website templates.
+- **[Rastero](https://github.com/koative/rastero)** — In-browser image compression.
+- **[OpenBucket](https://github.com/koative/openbucket)** — S3 storage for macOS.
+- **[Hyperliquid Go](https://github.com/koative/hyperliquid-go)** — Hyperliquid API SDK for Go.
 
 [Visit the studio ↗](https://koative.com) &nbsp; · &nbsp; [Explore all repositories ↗](https://github.com/orgs/koative/repositories)
