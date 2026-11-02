@@ -7,7 +7,7 @@
   </picture>
 </a>
 
-koative is an independent software studio, a US company founded by Koray Güler. We also take on a few client projects a year.
+koative is an independent software studio, a US company. We also take on a few client projects a year.
 
 | Product | What it is | Links |
 | :-- | :-- | :-- |
@@ -17,4 +17,4 @@ koative is an independent software studio, a US company founded by Koray Güler.
 | 🖼️ **Rast** | Compress images in the browser and compare every format side by side. | [Website](https://rast.koative.com) · [Source](https://github.com/koative/rast) |
 | 🐹 **hyperliquid-go** | A Go SDK for the Hyperliquid API. | [Website](https://hyperliquid-go.koative.com) · [Source](https://github.com/koative/hyperliquid-go) |
 
-[koative.com](https://koative.com) · Founded by [Koray Güler](https://koray.dev) · [Start a project](https://koative.com/contact/) · [X](https://x.com/raelsei) · [LinkedIn](https://www.linkedin.com/company/75442995/)
+[koative.com](https://koative.com) · [Start a project](https://koative.com/contact/) · [LinkedIn](https://www.linkedin.com/company/75442995/)
